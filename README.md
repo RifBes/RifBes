@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Arina!
 - 👀 I’m interested in frontend development
-- 🌺 I’m currently learning JS, react!
+- 🌺 I’m currently learning React, Vue!
 
 I am an aspiring frontend developer, I like to learn new things and develop as a professional 🌸
 
